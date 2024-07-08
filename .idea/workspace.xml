@@ -4,12 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1c7ed69c-f290-4710-b829-daf21e5151f8" name="Changes" comment="setup">
-      <change afterPath="$PROJECT_DIR$/classes/CreateMainWindow.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/CreateSecondaryWindow.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/functions/AddNewPokemon.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/functions/CheckInput.py" afterDir="false" />
+    <list default="true" id="1c7ed69c-f290-4710-b829-daf21e5151f8" name="Changes" comment="V0.0.1&#10;+ 2x windows, both uses and containers are to be filled later&#10;+ 2x functions, todo on both functions">
+      <change afterPath="$PROJECT_DIR$/getters/Getweaknessess.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/setters/SetTypeWeaknessess.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/functions/AddNewPokemon.py" beforeDir="false" afterPath="$PROJECT_DIR$/functions/AddNewPokemon.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/functions/CheckInput.py" beforeDir="false" afterPath="$PROJECT_DIR$/functions/CheckInput.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -27,23 +27,23 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 3
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
   <component name="ProjectId" id="2iSymKba1XMTBzHFjNl27XBJFP9" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.main.executor": "Debug",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "ignore.virus.scanning.warn.message": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.main.executor&quot;: &quot;Debug&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\coding\python_projects\pokemonTeamBuilder" />
@@ -97,11 +97,20 @@
       <option name="project" value="LOCAL" />
       <updated>1719498976803</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="V0.0.1&#10;+ 2x windows, both uses and containers are to be filled later&#10;+ 2x functions, todo on both functions">
+      <option name="closed" value="true" />
+      <created>1719500686357</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1719500686357</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="setup" />
-    <option name="LAST_COMMIT_MESSAGE" value="setup" />
+    <MESSAGE value="V0.0.1&#10;+ 2x windows, both uses and containers are to be filled later&#10;+ 2x functions, todo on both functions" />
+    <option name="LAST_COMMIT_MESSAGE" value="V0.0.1&#10;+ 2x windows, both uses and containers are to be filled later&#10;+ 2x functions, todo on both functions" />
   </component>
 </project>
