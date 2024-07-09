@@ -10,6 +10,6 @@ todo:
 
 
 commit commend clarification:
-+ [file name]: something was added to this file.
-- [file name]: something was removed from this file
-* [file name]: variable, something was either changed about this file for styling reasons / a bug fix was performed.
+- + [file name]: something was added to this file.
+- - [file name]: something was removed from this file
+- * [file name]: variable, something was either changed about this file for styling reasons / a bug fix was performed.
