@@ -4,13 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1c7ed69c-f290-4710-b829-daf21e5151f8" name="Changes" comment="V0.0.2&#10;+ Getweaknesses.py, added functionality to get the weakness from the data storage.&#10;+ SetTypeWeaknesses.py, added data storage, which is set on call.&#10;+ CheckInput.py, added data validation, cleared todo&#10;+ AddNewPokemon.py, started on functionality, added 3x todo to indicate what still needs to be done&#10;* main.py, fixed reference... (called to folder instead of file)">
+    <list default="true" id="1c7ed69c-f290-4710-b829-daf21e5151f8" name="Changes" comment="V0.1.0&#10;+ main.py, added full functionality for one Pokémon&#10;+ AddNewPokemon.py, completed 2 of the todos, now fully functional for one Pokémon&#10;+ CheckInput.py, added exemption from check, added checks for both types.&#10;+ Getweaknesses.py, added failsafe, added check for type none with resolution, added return&#10;- SetTypeWeaknesses.py, removed unnecessary code&#10;* SetTypeWeaknesses.py, fixed bug where it kept returning one key (forgot to add an advancing key + function continuation)">
+      <change afterPath="$PROJECT_DIR$/getters/Getresistances.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/getters/Getstrengths.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/setters/SetTypeResistances.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/setters/SetTypeStrengths.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/functions/AddNewPokemon.py" beforeDir="false" afterPath="$PROJECT_DIR$/functions/AddNewPokemon.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/functions/CheckInput.py" beforeDir="false" afterPath="$PROJECT_DIR$/functions/CheckInput.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/getters/Getweaknesses.py" beforeDir="false" afterPath="$PROJECT_DIR$/getters/Getweaknesses.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/setters/SetTypeWeaknesses.py" beforeDir="false" afterPath="$PROJECT_DIR$/setters/SetTypeWeaknesses.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -113,13 +113,22 @@
       <option name="project" value="LOCAL" />
       <updated>1720435767186</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="V0.1.0&#10;+ main.py, added full functionality for one Pokémon&#10;+ AddNewPokemon.py, completed 2 of the todos, now fully functional for one Pokémon&#10;+ CheckInput.py, added exemption from check, added checks for both types.&#10;+ Getweaknesses.py, added failsafe, added check for type none with resolution, added return&#10;- SetTypeWeaknesses.py, removed unnecessary code&#10;* SetTypeWeaknesses.py, fixed bug where it kept returning one key (forgot to add an advancing key + function continuation)">
+      <option name="closed" value="true" />
+      <created>1720483749342</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1720483749342</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="setup" />
     <MESSAGE value="V0.0.1&#10;+ 2x windows, both uses and containers are to be filled later&#10;+ 2x functions, todo on both functions" />
     <MESSAGE value="V0.0.2&#10;+ Getweaknesses.py, added functionality to get the weakness from the data storage.&#10;+ SetTypeWeaknesses.py, added data storage, which is set on call.&#10;+ CheckInput.py, added data validation, cleared todo&#10;+ AddNewPokemon.py, started on functionality, added 3x todo to indicate what still needs to be done&#10;* main.py, fixed reference... (called to folder instead of file)" />
-    <option name="LAST_COMMIT_MESSAGE" value="V0.0.2&#10;+ Getweaknesses.py, added functionality to get the weakness from the data storage.&#10;+ SetTypeWeaknesses.py, added data storage, which is set on call.&#10;+ CheckInput.py, added data validation, cleared todo&#10;+ AddNewPokemon.py, started on functionality, added 3x todo to indicate what still needs to be done&#10;* main.py, fixed reference... (called to folder instead of file)" />
+    <MESSAGE value="V0.1.0&#10;+ main.py, added full functionality for one Pokémon&#10;+ AddNewPokemon.py, completed 2 of the todos, now fully functional for one Pokémon&#10;+ CheckInput.py, added exemption from check, added checks for both types.&#10;+ Getweaknesses.py, added failsafe, added check for type none with resolution, added return&#10;- SetTypeWeaknesses.py, removed unnecessary code&#10;* SetTypeWeaknesses.py, fixed bug where it kept returning one key (forgot to add an advancing key + function continuation)" />
+    <option name="LAST_COMMIT_MESSAGE" value="V0.1.0&#10;+ main.py, added full functionality for one Pokémon&#10;+ AddNewPokemon.py, completed 2 of the todos, now fully functional for one Pokémon&#10;+ CheckInput.py, added exemption from check, added checks for both types.&#10;+ Getweaknesses.py, added failsafe, added check for type none with resolution, added return&#10;- SetTypeWeaknesses.py, removed unnecessary code&#10;* SetTypeWeaknesses.py, fixed bug where it kept returning one key (forgot to add an advancing key + function continuation)" />
   </component>
 </project>
