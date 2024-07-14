@@ -4,13 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1c7ed69c-f290-4710-b829-daf21e5151f8" name="Changes" comment="V0.1.0&#10;+ main.py, added full functionality for one Pokémon&#10;+ AddNewPokemon.py, completed 2 of the todos, now fully functional for one Pokémon&#10;+ CheckInput.py, added exemption from check, added checks for both types.&#10;+ Getweaknesses.py, added failsafe, added check for type none with resolution, added return&#10;- SetTypeWeaknesses.py, removed unnecessary code&#10;* SetTypeWeaknesses.py, fixed bug where it kept returning one key (forgot to add an advancing key + function continuation)">
-      <change afterPath="$PROJECT_DIR$/getters/Getresistances.py" afterDir="false" />
+    <list default="true" id="1c7ed69c-f290-4710-b829-daf21e5151f8" name="Changes" comment="V0.2.0&#10;+ AddNewPokemon.py, added functionality to check for resistances&#10;+ Getresistances.py, added a getter to fetch all the resistances for the given type&#10;+ SetTypeResistances.py, added a setter for all the resistances of all the types">
       <change afterPath="$PROJECT_DIR$/getters/Getstrengths.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/setters/SetTypeResistances.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/setters/SetTypeStrengths.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/functions/AddNewPokemon.py" beforeDir="false" afterPath="$PROJECT_DIR$/functions/AddNewPokemon.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,6 +22,33 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <excluded-from-favorite>
+      <branch-storage>
+        <map>
+          <entry type="REMOTE">
+            <value>
+              <list>
+                <branch-info repo="$PROJECT_DIR$" source="origin/main" />
+              </list>
+            </value>
+          </entry>
+        </map>
+      </branch-storage>
+    </excluded-from-favorite>
+    <favorite-branches>
+      <branch-storage>
+        <map>
+          <entry type="REMOTE">
+            <value>
+              <list>
+                <branch-info repo="$PROJECT_DIR$" source="origin/dev" />
+              </list>
+            </value>
+          </entry>
+        </map>
+      </branch-storage>
+    </favorite-branches>
+    <option name="PUSH_AUTO_UPDATE" value="true" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectColorInfo">{
@@ -121,7 +145,15 @@
       <option name="project" value="LOCAL" />
       <updated>1720483749342</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="V0.2.0&#10;+ AddNewPokemon.py, added functionality to check for resistances&#10;+ Getresistances.py, added a getter to fetch all the resistances for the given type&#10;+ SetTypeResistances.py, added a setter for all the resistances of all the types">
+      <option name="closed" value="true" />
+      <created>1720986127312</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1720986127312</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -129,6 +161,7 @@
     <MESSAGE value="V0.0.1&#10;+ 2x windows, both uses and containers are to be filled later&#10;+ 2x functions, todo on both functions" />
     <MESSAGE value="V0.0.2&#10;+ Getweaknesses.py, added functionality to get the weakness from the data storage.&#10;+ SetTypeWeaknesses.py, added data storage, which is set on call.&#10;+ CheckInput.py, added data validation, cleared todo&#10;+ AddNewPokemon.py, started on functionality, added 3x todo to indicate what still needs to be done&#10;* main.py, fixed reference... (called to folder instead of file)" />
     <MESSAGE value="V0.1.0&#10;+ main.py, added full functionality for one Pokémon&#10;+ AddNewPokemon.py, completed 2 of the todos, now fully functional for one Pokémon&#10;+ CheckInput.py, added exemption from check, added checks for both types.&#10;+ Getweaknesses.py, added failsafe, added check for type none with resolution, added return&#10;- SetTypeWeaknesses.py, removed unnecessary code&#10;* SetTypeWeaknesses.py, fixed bug where it kept returning one key (forgot to add an advancing key + function continuation)" />
-    <option name="LAST_COMMIT_MESSAGE" value="V0.1.0&#10;+ main.py, added full functionality for one Pokémon&#10;+ AddNewPokemon.py, completed 2 of the todos, now fully functional for one Pokémon&#10;+ CheckInput.py, added exemption from check, added checks for both types.&#10;+ Getweaknesses.py, added failsafe, added check for type none with resolution, added return&#10;- SetTypeWeaknesses.py, removed unnecessary code&#10;* SetTypeWeaknesses.py, fixed bug where it kept returning one key (forgot to add an advancing key + function continuation)" />
+    <MESSAGE value="V0.2.0&#10;+ AddNewPokemon.py, added functionality to check for resistances&#10;+ Getresistances.py, added a getter to fetch all the resistances for the given type&#10;+ SetTypeResistances.py, added a setter for all the resistances of all the types" />
+    <option name="LAST_COMMIT_MESSAGE" value="V0.2.0&#10;+ AddNewPokemon.py, added functionality to check for resistances&#10;+ Getresistances.py, added a getter to fetch all the resistances for the given type&#10;+ SetTypeResistances.py, added a setter for all the resistances of all the types" />
   </component>
 </project>
